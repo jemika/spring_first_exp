@@ -11,6 +11,5 @@
     <title>Title</title>
 </head>
 <body>
-    Hello fro Artyom to Alyona!! ^) Alyon is bleeding
-</body>
+    Hello!!!!!!
 </html>
